@@ -1,0 +1,1 @@
+ F:\\Universidad\\TFM\\Smartphone\ UI\\robot_user_interface\\.dart_tool\\flutter_build\\e2a8f82167600eb56a7bfed965e72c00\\native_assets.yaml: 
